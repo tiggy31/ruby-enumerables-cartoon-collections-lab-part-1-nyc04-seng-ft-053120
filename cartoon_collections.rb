@@ -11,4 +11,4 @@ def list_dwarves(array)
 
 end
 
- binding.pry
+ 
