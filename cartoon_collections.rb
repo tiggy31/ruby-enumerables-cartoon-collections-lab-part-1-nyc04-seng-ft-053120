@@ -2,9 +2,8 @@
 def greet_characters(array)
   array.each do |element|
     
-  puts " #{element}!"
+puts "Hello #{element}"
  binding.pry
- puts "hello"
 end
 
 def list_dwarves(array)
