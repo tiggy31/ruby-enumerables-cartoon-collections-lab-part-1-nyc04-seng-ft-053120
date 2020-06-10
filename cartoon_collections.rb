@@ -6,7 +6,7 @@ end
 def list_dwarves(array)
  
  
- array.each_with_index { |element, i| puts 1 }
+ array.each_with_index { |element, 1| puts  }
  
   
 end
