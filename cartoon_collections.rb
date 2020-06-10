@@ -1,3 +1,4 @@
+      require "pry"
 def greet_characters(array)
   
   array.each do |characters_array|
