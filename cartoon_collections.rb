@@ -5,7 +5,7 @@ end
 
 def list_dwarves(array)
  
- 
+ binding.pry
  array.each_with_index { |element, i| puts element }
  
   
