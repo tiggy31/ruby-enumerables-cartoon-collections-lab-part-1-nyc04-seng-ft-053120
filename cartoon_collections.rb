@@ -5,10 +5,10 @@ end
 
 def list_dwarves(array)
  
-  binding.pry
- array.each_with_index { |element, i| puts element}
+ 
+ array.each_with_index { |element, i| puts 1.element}
   # Use `each_with_index` to enumerate over the provided array
-
+  
   puts "hello"
   #
   # Print a numbered list of each element
