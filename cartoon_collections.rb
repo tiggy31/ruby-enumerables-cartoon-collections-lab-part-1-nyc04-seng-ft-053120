@@ -1,7 +1,8 @@
 def greet_characters(array)
   
   array.each do |characters_array|
-  p "Hello, #{characters_array}!"
+    binding.pry
+  puts "Hello, #{characters_array}!"
 
 end
 
